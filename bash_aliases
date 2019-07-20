@@ -1,3 +1,4 @@
+alias l='less -N'
 alias ll='ls -l'
 alias vu='vi -u NONE'
 alias va='vu ~/.bash_aliases'
